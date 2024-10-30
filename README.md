@@ -17,5 +17,5 @@
 
 ## UML
 
-- **[UML Class Diagram Tutorial](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/)
-- **[Apollon: A UML modeling editor](https://apollon.ase.in.tum.de/)
+- **[UML Class Diagram Tutorial](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/)**
+- **[Apollon: A UML modeling editor](https://apollon.ase.in.tum.de/)**
