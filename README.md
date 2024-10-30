@@ -3,7 +3,6 @@
 ## Computer Architecture
 
 - **[Microcode in Intel 8086 Processor](https://www.righto.com/2022/11/how-8086-processors-microcode-engine.html)**
-
 - **[Hardwired vs Micro-programmed Control Unit](https://www.geeksforgeeks.org/computer-organization-hardwired-vs-micro-programmed-control-unit/)**
 
 ## OCaml
@@ -15,3 +14,8 @@
 ## TypeScript
 
 - **[TypeScript tutorial in Visual Studio Code](https://code.visualstudio.com/docs/typescript/typescript-tutorial)**
+
+## UML
+
+- **[UML Class Diagram Tutorial](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/)
+- **[Apollon: A UML modeling editor](https://apollon.ase.in.tum.de/)
