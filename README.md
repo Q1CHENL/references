@@ -1,5 +1,8 @@
 # References
 
+## Algorithms
+- **[Binary Search](https://www.tutorialspoint.com/data_structures_algorithms/binary_search_algorithm.htm)**
+
 ## Computer Architecture
 
 - **[Microcode in Intel 8086 Processor](https://www.righto.com/2022/11/how-8086-processors-microcode-engine.html)**
