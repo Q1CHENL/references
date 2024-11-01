@@ -8,6 +8,9 @@
 - **[Microcode in Intel 8086 Processor](https://www.righto.com/2022/11/how-8086-processors-microcode-engine.html)**
 - **[Hardwired vs Micro-programmed Control Unit](https://www.geeksforgeeks.org/computer-organization-hardwired-vs-micro-programmed-control-unit/)**
 
+## Design
+- **[Design GNOME App Icon](https://blogs.gnome.org/tbernard/2019/12/30/designing-an-icon-for-your-app/)**
+
 ## OCaml
 
 - **[A Tour of OCaml](https://ocaml.org/docs/tour-of-ocaml#tour-of-ocaml)**
