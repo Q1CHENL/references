@@ -10,6 +10,7 @@
 
 ## Design
 - **[Design GNOME App Icon](https://blogs.gnome.org/tbernard/2019/12/30/designing-an-icon-for-your-app/)**
+- **[Inkscape 3D Text Tutorial](https://www.youtube.com/watch?app=desktop&v=FcwoFAqHXv0)**
 
 ## OCaml
 
