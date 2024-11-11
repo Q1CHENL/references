@@ -1,6 +1,7 @@
 # References
 
 ## Algorithms
+
 - **[Binary Search](https://www.tutorialspoint.com/data_structures_algorithms/binary_search_algorithm.htm)**
 
 ## Computer Architecture
@@ -9,8 +10,13 @@
 - **[Hardwired vs Micro-programmed Control Unit](https://www.geeksforgeeks.org/computer-organization-hardwired-vs-micro-programmed-control-unit/)**
 
 ## Design
+
 - **[Design GNOME App Icon](https://blogs.gnome.org/tbernard/2019/12/30/designing-an-icon-for-your-app/)**
 - **[Inkscape 3D Text Tutorial](https://www.youtube.com/watch?app=desktop&v=FcwoFAqHXv0)**
+
+## GNOME
+
+- **[GNOME Python API](https://amolenaar.pages.gitlab.gnome.org/pygobject-docs/)**
 
 ## OCaml
 
@@ -26,3 +32,4 @@
 
 - **[UML Class Diagram Tutorial](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/)**
 - **[Apollon: A UML modeling editor](https://apollon.ase.in.tum.de/)**
+
