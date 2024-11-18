@@ -8,6 +8,7 @@
 
 - **[Microcode in Intel 8086 Processor](https://www.righto.com/2022/11/how-8086-processors-microcode-engine.html)**
 - **[Hardwired vs Micro-programmed Control Unit](https://www.geeksforgeeks.org/computer-organization-hardwired-vs-micro-programmed-control-unit/)**
+- **[Monolithic vs Chiplets](https://www.researchgate.net/figure/Monolithic-Dieleft-vs-Chipletsright_fig4_376192917)**
 
 ## Design
 
