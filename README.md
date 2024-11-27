@@ -10,6 +10,10 @@
 - **[Hardwired vs Micro-programmed Control Unit](https://www.geeksforgeeks.org/computer-organization-hardwired-vs-micro-programmed-control-unit/)**
 - **[Monolithic vs Chiplets](https://www.researchgate.net/figure/Monolithic-Dieleft-vs-Chipletsright_fig4_376192917)**
 
+## Computer Networks
+
+- **[HTTP Status Code](https://http.cat)**
+
 ## Design
 
 - **[Design GNOME App Icon](https://blogs.gnome.org/tbernard/2019/12/30/designing-an-icon-for-your-app/)**
