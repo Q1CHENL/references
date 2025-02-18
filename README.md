@@ -1,5 +1,11 @@
 # References
 
+## TUM
+
+- **[Curriculum Master Informatics start from 2023/24](https://campus.tum.de/tumonline/pl/ui/$ctx/wbstpcs.showSpoTree?pStStudiumNr=&pStpStpNr=5217)**
+- **[Überfachlich Grundlagen Informatik (incl. rules for Language Courses)](https://www.cit.tum.de/cit/studium/studierende/ueberfachliche-grundlagen/)**
+- **[Sprachenzentrum (incl. Language Course deadlines)](https://www.sprachenzentrum.tum.de)**
+
 ## AI
 
 - **[LLM Analysis (Benchmarks, Pricing etc.)](https://artificialanalysis.ai/)**
@@ -27,6 +33,7 @@
 - **[HTTP Status Code](https://http.cat)**
 - **[Distributed System Slides from Martin Kleppmann](https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes.pdf)**
 - **[CSE138 (Distributed Systems) L4: vector clocks, FIFO/causal/totally-ordered delivery](https://www.youtube.com/watch?v=5BHizc7BPyE)**
+- **[Broadcast Protocols (Slides from KTH)](https://courses.edx.org/asset-v1:KTHx+ID2203.1x+2016T3+type@asset+block/Lecture_6_Causal_Broadcast.pdf)**
 - **[Raft Website (Intro, Paper, List of implementations etc.)](https://raft.github.io/)**
 - **[Visualization of Raft](https://thesecretlivesofdata.com/raft/)**
 - **[Martin Kleppmann Website (Professor at University of Cambridge)](https://martin.kleppmann.com/)**
