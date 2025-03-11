@@ -55,6 +55,7 @@
 ## TypeScript
 
 - **[TypeScript tutorial in Visual Studio Code](https://code.visualstudio.com/docs/typescript/typescript-tutorial)**
+- **[A 10x faster TypeScript (A good overview to compiler, porting etc.)](https://www.youtube.com/watch?v=pNlq-EVld70)**
 
 ## UML
 
