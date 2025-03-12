@@ -5,6 +5,7 @@
 - **[Curriculum Master Informatics start from 2023/24](https://campus.tum.de/tumonline/pl/ui/$ctx/wbstpcs.showSpoTree?pStStudiumNr=&pStpStpNr=5217)**
 - **[Überfachlich Grundlagen Informatik (incl. rules for Language Courses)](https://www.cit.tum.de/cit/studium/studierende/ueberfachliche-grundlagen/)**
 - **[Sprachenzentrum (incl. Language Course deadlines)](https://www.sprachenzentrum.tum.de)**
+- **[Thesis Tracker (AET)](https://thesis.aet.cit.tum.de)**
 
 ## AI
 
