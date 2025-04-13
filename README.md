@@ -3,8 +3,10 @@
 ## TUM
 
 - **[Curriculum Master Informatics start from 2023/24](https://campus.tum.de/tumonline/pl/ui/$ctx/wbstpcs.showSpoTree?pStStudiumNr=&pStpStpNr=5217)**
-- **[Überfachlich Grundlagen Informatik (incl. rules for Language Courses)](https://www.cit.tum.de/cit/studium/studierende/ueberfachliche-grundlagen/)**
+- **[Überfachlich Grundlagen Informatik (incl. Rules for Language Courses)](https://www.cit.tum.de/cit/studium/studierende/ueberfachliche-grundlagen/)**
 - **[Sprachenzentrum (incl. Language Course deadlines)](https://www.sprachenzentrum.tum.de)**
+- **[Informatik M.Sc. Studium (incl. Credits rules)](https://www.cit.tum.de/cit/studium/studiengaenge/master-informatik/#c534)**
+- **[Thesis Tracker (AET)](https://thesis.aet.cit.tum.de)**
 
 ## AI
 
@@ -58,6 +60,7 @@
 ## TypeScript
 
 - **[TypeScript tutorial in Visual Studio Code](https://code.visualstudio.com/docs/typescript/typescript-tutorial)**
+- **[A 10x faster TypeScript (A good overview to compiler, porting etc.)](https://www.youtube.com/watch?v=pNlq-EVld70)**
 
 ## UML
 
