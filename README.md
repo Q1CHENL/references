@@ -52,6 +52,9 @@
 - **[Your first OCaml Program](https://ocaml.org/docs/your-first-program)**
 - **[The OCaml Language Manual (5.1)](https://v2.ocaml.org/releases/5.1/htmlman/index.html)**
 
+## Tools
+- **[ASCII ART Text Generator](https://patorjk.com/software/taag/#p=display&f=ANSI%20Shadow&t=todoism)**
+
 ## TypeScript
 
 - **[TypeScript tutorial in Visual Studio Code](https://code.visualstudio.com/docs/typescript/typescript-tutorial)**
