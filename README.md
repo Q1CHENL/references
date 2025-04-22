@@ -7,6 +7,7 @@
 - **[Sprachenzentrum (incl. Language Course deadlines)](https://www.sprachenzentrum.tum.de)**
 - **[Informatik M.Sc. Studium (incl. Credits rules)](https://www.cit.tum.de/cit/studium/studiengaenge/master-informatik/#c534)**
 - **[Thesis Tracker (AET)](https://thesis.aet.cit.tum.de)**
+- **[Academic Advising Informatics (Moodle course, incl. Thesis info)](https://www.moodle.tum.de/course/view.php?id=57514&section=5#tabs-tree-start)**
 
 ## AI
 
