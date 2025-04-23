@@ -9,6 +9,7 @@
 - **[Thesis Tracker (AET)](https://thesis.aet.cit.tum.de)**
 - **[Academic Advising Informatics (Moodle course, incl. Thesis info)](https://www.moodle.tum.de/course/view.php?id=57514&section=5#tabs-tree-start)**
 - **[HiWi Stellen](https://portal.mytum.de/schwarzesbrett/hiwi_stellen/)**
+- **[TUM Exam Statistics](https://mcmikecreations.github.io/tum_info/courses/)**
 
 ## AI
 
