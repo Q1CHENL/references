@@ -43,6 +43,8 @@
 - **[Raft Website (Intro, Paper, List of implementations etc.)](https://raft.github.io/)**
 - **[Visualization of Raft](https://thesecretlivesofdata.com/raft/)**
 - **[Martin Kleppmann Website (Professor at University of Cambridge)](https://martin.kleppmann.com/)**
+- **[Twisted Pair Wires Explained (Crosstalk and Electromagnetic Interference elimination)](https://www.youtube.com/watch?v=RVzM-b3okH0)**
+- **[Twisted Pair Cable Noise Immunity (Capacitance, Metal shielding)](https://www.youtube.com/watch?v=De0aeropM2k)**
 
 ## GNOME
 
