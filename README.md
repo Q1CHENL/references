@@ -50,6 +50,9 @@
 
 - **[GNOME Python API](https://amolenaar.pages.gitlab.gnome.org/pygobject-docs/)**
 
+## Japanese Language
+- **[Minna no Nihongo (Complete summary)](https://www.vokipedia.de/index.php?title=DEU:Japanisch:Minna_no_Nihongo)**
+
 ## Linux
 
 - **[Different versions of Linux Kernel Source Code](https://elixir.bootlin.com/linux/v6.11.8/source)**
