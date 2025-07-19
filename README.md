@@ -1,5 +1,7 @@
 # References
 
+Collections of tips and useful links.
+
 ## TUM
 
 - **[Curriculum Master Informatics start from 2023/24](https://campus.tum.de/tumonline/pl/ui/$ctx/wbstpcs.showSpoTree?pStStudiumNr=&pStpStpNr=5217)**
@@ -55,6 +57,7 @@
 - **[The OCaml Language Manual (5.1)](https://v2.ocaml.org/releases/5.1/htmlman/index.html)**
 
 ## Tools
+
 - **[ASCII ART Text Generator](https://patorjk.com/software/taag/#p=display&f=ANSI%20Shadow&t=todoism)**
 
 ## TypeScript
