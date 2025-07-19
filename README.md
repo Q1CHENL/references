@@ -9,6 +9,10 @@ Collections of tips and useful links.
 - **[Sprachenzentrum (incl. Language Course deadlines)](https://www.sprachenzentrum.tum.de)**
 - **[Informatik M.Sc. Studium (incl. Credits rules)](https://www.cit.tum.de/cit/studium/studiengaenge/master-informatik/#c534)**
 - **[Thesis Tracker (AET)](https://thesis.aet.cit.tum.de)**
+- **[Academic Advising Informatics (Moodle course, incl. Thesis info)](https://www.moodle.tum.de/course/view.php?id=57514&section=5#tabs-tree-start)**
+- **[HiWi Stellen](https://portal.mytum.de/schwarzesbrett/hiwi_stellen/)**
+- **[TUM Exam Statistics](https://mcmikecreations.github.io/tum_info/courses/)**
+- **[International Students Working in Germany (Rules and regulations)](https://www.tu.berlin/zewk/arbeitsbereiche/kooperationsstelle-wissenschaft-und-arbeitswelt/studentswork/faq-international-students-working-in-germany)**
 
 ## AI
 
@@ -41,10 +45,15 @@ Collections of tips and useful links.
 - **[Raft Website (Intro, Paper, List of implementations etc.)](https://raft.github.io/)**
 - **[Visualization of Raft](https://thesecretlivesofdata.com/raft/)**
 - **[Martin Kleppmann Website (Professor at University of Cambridge)](https://martin.kleppmann.com/)**
+- **[Twisted Pair Wires Explained (Crosstalk and Electromagnetic Interference elimination)](https://www.youtube.com/watch?v=RVzM-b3okH0)**
+- **[Twisted Pair Cable Noise Immunity (Capacitance, Metal shielding)](https://www.youtube.com/watch?v=De0aeropM2k)**
 
 ## GNOME
 
 - **[GNOME Python API](https://amolenaar.pages.gitlab.gnome.org/pygobject-docs/)**
+
+## Japanese Language
+- **[Minna no Nihongo (Complete summary)](https://www.vokipedia.de/index.php?title=DEU:Japanisch:Minna_no_Nihongo)**
 
 ## Linux
 
