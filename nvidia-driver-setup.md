@@ -188,3 +188,16 @@ If they **don’t match**, fix with:
 ```bash
 sudo dnf install "kernel-devel-uname-r == $(uname -r)"
 ```
+
+## Appendix: Additional things
+
+`sudo akmods --force` force rebuild of all akmods kernel modules, to fix kernel mismatch issues like
+
+```log
+Failed to initialize NVML: Driver/library version mismatch
+NVML library version: 575.64
+```
+
+between `akmods` and `xorg-x11-drv-nvidia-cuda` when running `nvidia-smi`.
+
+To use `nvidia-smi`, need to `sudo dnf xorg-x11-drv-nvidia-cuda`
