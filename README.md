@@ -48,6 +48,7 @@ Collections of tips and useful links.
 - **[Twisted Pair Wires Explained (Crosstalk and Electromagnetic Interference elimination)](https://www.youtube.com/watch?v=RVzM-b3okH0)**
 - **[Twisted Pair Cable Noise Immunity (Capacitance, Metal shielding)](https://www.youtube.com/watch?v=De0aeropM2k)**
 - **[Certificate and Cross-Signing](https://scotthelme.co.uk/cross-signing-alternate-trust-paths-how-they-work/)**
+- **[TLS 1.3 Handshake Illustrated](https://tls13.xargs.org/)**
 
 ## GNOME
 
