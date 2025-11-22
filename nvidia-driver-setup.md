@@ -57,10 +57,18 @@ Save and exit (`Ctrl + O`, Enter, `Ctrl + X`).
 
 ---
 
-## 4. Rebuild Initramfs
+## 4. Rebuild
+
+### Rebuild initramfs
 
 ```bash
 sudo dracut --force
+```
+
+### Rebuild module dependency databases
+
+```bash
+sudo depmod -a
 ```
 
 ---
@@ -173,7 +181,7 @@ Once booted:
 
 ## Troubleshooting
 
-If you're stuck again:
+If stuck again:
 
 - Reboot and add `systemd.unit=multi-user.target` at GRUB again
 - Check the output of:
@@ -187,6 +195,12 @@ If they **don’t match**, fix with:
 
 ```bash
 sudo dnf install "kernel-devel-uname-r == $(uname -r)"
+```
+
+If the NVIDIA module is not loaded after following the steps above, try loading it manually:
+
+```bash
+sudo modprobe nvidia
 ```
 
 ## Appendix: Additional things
