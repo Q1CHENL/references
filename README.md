@@ -56,6 +56,7 @@ Collections of tips and useful links.
 - **[GNOME Python API](https://amolenaar.pages.gitlab.gnome.org/pygobject-docs/)**
 
 ## Japanese Language
+
 - **[Minna no Nihongo (Complete summary)](https://www.vokipedia.de/index.php?title=DEU:Japanisch:Minna_no_Nihongo)**
 
 ## Linux
